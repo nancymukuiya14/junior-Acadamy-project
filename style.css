@@ -1,0 +1,54 @@
+.topbar {
+    background-color: black;
+    height: 40px;
+    width: 100%;
+}
+.contacts {
+    color: blue;
+    margin-left: 1000px;
+    display: flex;
+    margin-bottom:-200px;
+    font-size: smaller;
+
+}
+.icons {
+    display: flex;
+}
+.topbar>.contacts {
+    margin-top: -30px;
+    
+}
+.bottombar {
+    background-color:rgb(53, 51, 51);
+    height: 50px;
+    width: 100%;
+    color: white
+}
+.links {
+    display: flex;
+    margin-left: 900px;
+    font-size: small;
+    margin-bottom: -400px;
+}
+.bottombar>.links {
+    margin-top: -50px;
+}
+.f {
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: brown;
+    width: 5%;
+    height: 50px;
+}
+.name {
+    background-image: url(./images/School-Candid.jpg);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+}
+.schoolname {
+    margin-bottom: 50px;
+    color: white;
+    margin-left: 100px;
+    text-align: start;
+    padding: 100px;
+}
