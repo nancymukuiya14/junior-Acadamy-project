@@ -163,8 +163,6 @@ h1 {
 .hardwork {
     margin-right: 100px;
 }
-h2 { 
-    color: white;
 }
 h3 {
     color: white;
@@ -172,4 +170,7 @@ h3 {
 .f {
     color: white;
     padding: 10px;
+}
+i>.commit {
+    color: dodgerblue;
 }
