@@ -73,8 +73,7 @@
     justify-content: space-between;
 }
 .value {
-    display: flex;
-    align-items: center;
+    margin-left: 100px;
 }
 .onetwo {
     display: flex;
@@ -91,11 +90,13 @@
     background-size:cover;
     width: 100%;
     color: white;
+    align-content: center;
+
 }
 .quiz {
     background-color: dodgerblue;
     height: 50px;
-    margin-top:-40px;
+    margin-top:-30px;
     text-align: center;
 }
 footer {
@@ -105,5 +106,37 @@ footer {
 .foot {
     display: flex;
     justify-content: space-between;
+}
+h1 {
+    text-align: center;
 
+}
+.copyright {
+    background-color: black;
+    text-align: center;
+    height: 30px;
+}
+.one {
+    margin-left: 70px;
+}
+.two {
+    margin-right:100px;
+}
+.three {
+    margin-left: 70px;
+}
+.four {
+    margin-left: 70px;
+}
+.commit {
+    margin-left: 70px;
+}
+.Discipline {
+    margin-right: 70px;
+}
+.sw {
+    margin-left: 70px;
+}
+.hardwork {
+    margin-right: 70px;
 }
