@@ -52,3 +52,49 @@
     text-align: start;
     padding: 100px;
 }
+.note {
+    background-color: dodgerblue;
+    color: white;
+    height: 50px;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left:380px;
+    margin-top:-80px;
+    padding-top:20px;
+    
+}
+.uppervalues {
+    display: flex;
+    justify-content: space-between;
+}
+.lowervalues {
+    display: flex;
+    justify-content: space-between;
+}
+.value {
+    display: flex;
+    align-items: center;
+}
+.onetwo {
+    display: flex;
+    justify-content: space-between;
+}
+.threefour {
+    display: flex;
+    justify-content: space-between;
+
+}
+.mission {
+    background-image: url(./images/mission.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    color: white;
+}
+.quiz {
+    background-color: dodgerblue;
+    height: 50px;
+    margin-top:-40px;
+    text-align: center;
+}
