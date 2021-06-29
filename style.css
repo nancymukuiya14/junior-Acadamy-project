@@ -33,6 +33,7 @@
 .bottombar>.links {
     margin-top: -50px;
 }
+
 .f {
     font-size: 30px;
     margin-left: 50px;
@@ -40,6 +41,7 @@
     width: 5%;
     height: 50px;
 }
+/* mutinda junior academy */
 .name {
     background-image: url(./images/School-Candid.jpg);
     background-size: 2000px;
@@ -86,6 +88,7 @@
     justify-content: space-between;
 
 }
+
 .mission {
     background-image: url(./images/mission.jpg);
     background-repeat: no-repeat;
@@ -95,6 +98,7 @@
     align-content: center;
 
 }
+/* styled the question */
 .quiz {
     background-color: dodgerblue;
     height: 50px;
@@ -105,6 +109,7 @@
 .quick {
     margin-top: 40px;
 }
+/* styled the footer */
 footer {
     background-color:rgb(53, 51, 51);
     color: white;
@@ -132,6 +137,7 @@ h1 {
     text-align: center;
     height: 30px;
 }
+/* moving the content to the middle */
 .one {
     margin-left: 70px;
 }
