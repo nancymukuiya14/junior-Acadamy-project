@@ -132,14 +132,24 @@ h1 {
     margin-bottom: 100px;
 }
 .commit {
-    margin-left: 80px;
+    margin-left: 100px;
 }
 .Discipline {
-    margin-right: 80px;
+    margin-right: 100px;
 }
 .sw {
-    margin-left: 80px;
+    margin-left: 100px;
 }
 .hardwork {
-    margin-right: 80px;
+    margin-right: 100px;
+}
+h2 { 
+    color: white;
+}
+h3 {
+    color: white;
+}
+.f {
+    color: white;
+    padding: 10px;
 }
