@@ -41,7 +41,7 @@
     height: 50px;
 }
 .name {
-    background-image: url(./images/School-Candid.jpg);
+    background-image: url(./images/back-to-school-background-vector-26570430.jpg);
     background-size: 2000px;
     background-repeat: no-repeat;
 }
@@ -108,6 +108,10 @@ footer {
     display: flex;
     justify-content: space-between;
     color: rgb(122, 110, 110);
+    height: 300px;
+}
+.six {
+    margin-top: 30px;
 }
 h1 {
     text-align: center;
