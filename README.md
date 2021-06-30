@@ -17,5 +17,10 @@
 * Git.
 * web browser.
 # GITHUB LINK
+* This is the link of my project in my github account
+https://github.com/nancymukuiya14/junior-Acadamy-project
 
 # IMAGES
+<img src="./images/pic1.png">
+<img src="./images/pic2.png">
+<img src="./images/pic4.png">
