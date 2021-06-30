@@ -1,0 +1,174 @@
+.topbar {
+    background-color: black;
+    height: 40px;
+    width: 100%;
+}
+.contacts {
+    color: blue;
+    margin-left: 1000px;
+    display: flex;
+    margin-bottom:-200px;
+    font-size: smaller;
+
+}
+.icons {
+    display: flex;
+}
+.topbar>.contacts {
+    margin-top: -30px;
+    
+}
+.bottombar {
+    background-color:rgb(53, 51, 51);
+    height: 50px;
+    width: 100%;
+    color: white
+}
+.links {
+    display: flex;
+    margin-left: 900px;
+    font-size: small;
+    margin-bottom: -400px;
+}
+.bottombar>.links {
+    margin-top: -50px;
+}
+
+.f {
+    font-size: 30px;
+    margin-left: 50px;
+    background-color: brown;
+    width: 5%;
+    height: 50px;
+}
+/* mutinda junior academy */
+.name {
+    background-image: url(./images/School-Candid.jpg);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+}
+.schoolname {
+    margin-bottom: 50px;
+    color: white;
+    margin-left: 100px;
+    text-align: start;
+    padding: 100px;
+}
+.note {
+    background-color: dodgerblue;
+    color: white;
+    height: 50px;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left:380px;
+    margin-top:-80px;
+    padding-top:20px;
+    
+}
+.uppervalues {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+.lowervalues {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:150px;
+}
+.values {
+    font-size: x-large;
+}
+.onetwo {
+    display: flex;
+    justify-content: space-between;
+}
+.threefour {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.mission {
+    background-image: url(./images/mission.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    color: white;
+    align-content: center;
+
+}
+/* styled the question */
+.quiz {
+    background-color: dodgerblue;
+    height: 50px;
+    margin-top:-30px;
+    text-align: center;
+    padding: 10px;
+}
+.quick {
+    margin-top: 40px;
+}
+/* styled the footer */
+footer {
+    background-color:rgb(53, 51, 51);
+    color: white;
+}
+.last {
+    margin-top: 40px;
+    margin-right: 50px;
+}
+.foot {
+    display: flex;
+    justify-content: space-between;
+    color: rgb(122, 110, 110);
+    height: 300px;
+}
+.six {
+    margin-top: 40px;
+    margin-left: 100px;
+}
+h1 {
+    text-align: center;
+
+}
+.copyright {
+    background-color: black;
+    text-align: center;
+    height: 30px;
+}
+/* moving the content to the middle */
+.one {
+    margin-left: 70px;
+}
+.two {
+    margin-right:100px;
+}
+.three {
+    margin-left: 70px;
+}
+.four {
+    margin-right:130px;
+    margin-bottom: 100px;
+}
+/* The ones with the icons */
+.commit {
+    margin-left: 100px;
+}
+.Discipline {
+    margin-right: 100px;
+}
+.sw {
+    margin-left: 100px;
+}
+.hardwork {
+    margin-right: 100px;
+}
+}
+h3 {
+    color: white;
+}
+.f {
+    color: white;
+    padding: 10px;
+}
