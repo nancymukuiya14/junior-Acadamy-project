@@ -13,6 +13,8 @@ body {
     display: flex;
     margin-bottom:-200px;
     font-size: smaller;
+    display: flex;
+    justify-content: space-around
 
 }
 .icons {
